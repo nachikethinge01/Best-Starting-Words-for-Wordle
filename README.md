@@ -1,1 +1,2 @@
-# Not Completed yet.. Will be Updated Soon!!
+#Open "Wordle.ipnyb"
+
