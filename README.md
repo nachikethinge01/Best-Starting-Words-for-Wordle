@@ -1,2 +1,2 @@
-# Open "Wordle.ipnyb"
+# Open "Wordle.ipynb"
 
